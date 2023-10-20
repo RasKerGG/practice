@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+}
+#button1, #button2, #button3{
+    background-color: #4CAF4F;
+    color: #fff;
+    padding: 10px 30px 10px 30px;
+}
+#logo1{
+    font-weight: bold;
+}
+#main1{
+    background-color: #F5F7FA;
+}
+.secondline{
+    color: #4CAF4F;
+    font-size: 500px;
+}
+#main1{
+    margin-top: 10px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#secondline{
+    color: #4CAF4F;
+    font-size: 60px;
+}
+#firstline{
+    font-size: 60px;
+}
+#underline{
+    color: #717171;
+    line-height: 70px;
+}
+#ourclients, #manage, #card1top, #card2top, #card3top, #spending{
+    color: #4D4D4D;
+}
+#ourclientsunderline, #manageunderline, #card1under, #card2under, #card3under, #lorem, #underline1{
+    color: #717171;
+}
+#logo1, #logo2, #logo3, #logo4, #logo5, #logo6, #logo7{
+    width: 60px;
+}
+.card1, .card2, .card3{
+    display: inline-block;
+    width: 80%;
+    box-shadow: 0px 1.39214px 2.78428px rgba(171, 190, 209, 0.2);
+}
+#card1under, #card2under, #card3under{
+    padding-top: 15px;
+}
+#rafiki1{
+    width: 100%;
+}
+#lorem{
+    padding-top: 20px;
+}
+#spending{
+    padding-top: 100px;
+    font-size: 35px;
+}
+#underline1{
+    color: #18191F;
+    font-size: 15px;
+}
+#secondline1{
+    color: #4CAF4F;
+    font-size: 30px;
+}
+#firstline1{
+    color: #4D4D4D;;
+    font-size: 30px;
+}
+#pana{
+    width: 80%;
+}
