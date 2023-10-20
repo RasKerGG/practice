@@ -57,5 +57,20 @@
 }
 #spending{
     padding-top: 100px;
-    font-size: 50px;
+    font-size: 35px;
+}
+#underline1{
+    color: #18191F;
+    font-size: 15px;
+}
+#secondline1{
+    color: #4CAF4F;
+    font-size: 30px;
+}
+#firstline1{
+    color: #4D4D4D;;
+    font-size: 30px;
+}
+#pana{
+    width: 80%;
 }
